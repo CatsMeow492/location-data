@@ -1,0 +1,1 @@
+take a sidelength of a square and return perimeter and area as a tuple
