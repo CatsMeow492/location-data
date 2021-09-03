@@ -14,5 +14,5 @@ total = 0
 for item in meal:
     total += calories[item]
 
-print("Total calories inn meal: " + str(total))
+print("Total calories in meal: " + str(total))
 
